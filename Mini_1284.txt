@@ -1,0 +1,36 @@
+Partlist exported from /Users/gpb01/Dropbox/_EagleCad/Midi_1284P/Mini_1284 v1.5/Mini_1284.sch at 14.12.17 09:16 AM
+
+Part    Value        Device                               Package                  Description                                 
+16MHZ   CX2520       CX2520                               CX2520                   CX2520 Series Crystal                       
+ATMEGA1 ATmega1284P  ATMEGA164A/PA/324A/PA/644A/PA/1284/P 44TQFP                   Digikey No :- __ATMEGA1284-AU-ND__  44TQFP  
+C1      100n         C0603-ROUND                          C0603-ROUND                                                          
+C2      100n         C0603-ROUND                          C0603-ROUND                                                          
+C3      100n         C0603-ROUND                          C0603-ROUND                                                          
+C4      100n         C0603-ROUND                          C0603-ROUND                                                          
+C5      100n         C0603-ROUND                          C0603-ROUND                                                          
+C6      18p          C0603-ROUND                          C0603-ROUND                                                          
+C7      18p          C0603-ROUND                          C0603-ROUND                                                          
+C8      470p         C0603-ROUND                          C0603-ROUND                                                          
+C9      10uF         CAP_POL1206                          EIA3216                  Capacitor Polarized                         
+ISP1    AVRISP-6     AVRISP-6                             AVRISP                   AVR ISP HEADER                              
+JP1                  PINHD-1X20                           1X20                     PIN HEADER                                  
+JP2                  PINHD-1X20                           1X20                     PIN HEADER                                  
+JP3                  PINHD-1X5                            1X05                     PIN HEADER                                  
+LED1    GREEN        LEDCHIP-LED0805                      CHIP-LED0805             LED                                         
+LED2    RED          LEDCHIP-LED0805                      CHIP-LED0805             LED                                         
+Q1      FDN340P      FDN340P                              SUPER-SOT3               Single P-Channel, PowerTrench (R) MOSFET    
+R1      4.7K         R0603-ROUND                          R0603-ROUND                                                          
+R2      4.7K         R0603-ROUND                          R0603-ROUND                                                          
+R3      10K          R0603-ROUND                          R0603-ROUND                                                          
+R4      470          R0603-ROUND                          R0603-ROUND                                                          
+R5      470          R0603-ROUND                          R0603-ROUND                                                          
+R6      10K          R0603-ROUND                          R0603-ROUND                                                          
+R7      470          R0603-ROUND                          R0603-ROUND                                                          
+S1      Reset        SWITCH-MOMENTARY-2SMD-ALT01          TACTILE-SWITCH-SMD-ALT01 Various NO switches- pushbuttons, reed, etc 
+U$4     SOL-PAD-OPEN SOL-PAD-OPEN                         SOL-PAD-OPEN                                                         
+U$5     SOL-PAD-OPEN SOL-PAD-OPEN                         SOL-PAD-OPEN                                                         
+U$8     SOL-PAD-OPEN SOL-PAD-OPEN                         SOL-PAD-OPEN                                                         
+U$9     SOL-PAD-OPEN SOL-PAD-OPEN                         SOL-PAD-OPEN                                                         
+U$12    SOL-PAD-OPEN SOL-PAD-OPEN                         SOL-PAD-OPEN                                                         
+U$13    SOL-PAD-OPEN SOL-PAD-OPEN                         SOL-PAD-OPEN                                                         
+U2      MIC5205      V_REG_LDOSMD                         SOT23-5                  Voltage Regulator LDO                       
